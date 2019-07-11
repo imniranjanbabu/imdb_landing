@@ -1,0 +1,13 @@
+.app{
+    background: white;
+
+}
+
+.color{
+    height: 150px;
+}
+
+.slide{
+    height:300px;
+    background-image:"./a.jpg";
+}
